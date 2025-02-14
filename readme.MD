@@ -1,16 +1,19 @@
-# Deepseek R1: 
-
-jailbreak_deepseekR1.txt
+# SUPER IMPORTANT: USE BY YOUR OWN RESPONSIBILITY
 
 
-# Claude by Antropic: 
+## Deepseek R1: 
 
-Claude 3: claude3.md
-
-Claude 3.5: claude3point5.md
+__jailbreak_deepseekR1__.txt
 
 
+## Claude by Antropic: 
 
-# ChatGPTs: 
+__Claude 3__: claude3.md
 
-chatgpt.md
+__Claude 3.5__: claude3point5.md
+
+
+
+## ChatGPTs: 
+
+__chatgpt.md__

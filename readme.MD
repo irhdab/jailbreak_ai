@@ -1,1 +1,1 @@
-jailbreak.txt contains jailbreaking prompt
+Deepseek R1: jailbreak_deepseekR1.txt

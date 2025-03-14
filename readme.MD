@@ -1,6 +1,8 @@
 # SUPER IMPORTANT: USE BY YOUR OWN RESPONSIBILITY
 
 
+https://github.com/irhdab/jailbreak_ai/blob/main/readme.MD
+
 jailbreak_ai/
 ├── chatgpt.md          # OpenAI ChatGPT bypass techniques
 ├── claude3.md          # Anthropic Claude 3 prompts
